@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\44106567\Documents\Android\swipe_fraud\FraudDetector.iml" filepath="C:\Users\44106567\Documents\Android\swipe_fraud\FraudDetector.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swipe_fraud.iml" filepath="$PROJECT_DIR$/swipe_fraud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fraud_detector.iml" filepath="$PROJECT_DIR$/.idea/fraud_detector.iml" />
     </modules>
   </component>
 </project>
